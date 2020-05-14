@@ -3,7 +3,7 @@ html, body{
 	font-size: 14px;
 }
 .app-section{
-	width: 100%;
+	width: 1440px;
 	height: 500px;
 	background: #ED4C5C;
 	color: #FFFFFF;
@@ -57,4 +57,55 @@ html, body{
 	left: 735px;
 	top: 94px;
 	z-index: 1;
+}
+.contact-section{
+	width: 1440px;
+	height: 500px;
+	background: #FFFFFF;
+	position: relative;
+}
+.contact-section-left{
+	color: #000000;
+	width: 434px;
+	left: 176px;
+	top: 117px;
+	position: absolute;
+}
+.contact{
+	font-style: normal;
+	font-weight: 600;
+	font-size: 36px;
+	line-height: 43px;
+}
+.contact-discription{
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 140%;
+	text-align: justify;
+	margin: 60px 0px 0px 0px;
+}
+.form{
+	position: absolute;
+	width: 519px;
+	height: 305px;
+	left: 735px;
+	top: 117px;
+	border: 1px solid green;
+}
+.text-input{
+	padding: 20px 30px;
+	border-radius: 6px;
+	border: 1px solid #333333;
+	box-sizing: border-box;	
+}
+.first-name{
+	margin: 0px 54px 0px 0px;
+}
+.phone{
+	width: 100%;
+    padding: 20px 30px;
+    border-radius: 6px;
+    border: 1px solid #333333;
+    box-sizing: border-box;
 }
