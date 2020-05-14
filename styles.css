@@ -3,6 +3,7 @@ html, body{
 	font-size: 14px;
 }
 .app-section{
+	max-width: 1440px;
 	min-height: 500px;
 	background: #ED4C5C;
 	color: #FFFFFF;
@@ -17,7 +18,7 @@ html, body{
 .stay-focused{
 	font-style: normal;
 	font-weight: 600;
-	font-size: 2.58rem;
+	font-size: 36px;
 	line-height: 43px;
 }
 .discription{
@@ -57,6 +58,7 @@ html, body{
 	z-index: 1;
 }
 .contact-section{
+	max-width: 1440px;
 	min-height: 500px;
 	background: #FFFFFF;
 	position: relative;
@@ -148,6 +150,7 @@ html, body{
 }
 footer{
 	position: relative;
+	max-width: 1440px;
 	min-height: 435px;
 	background: #FAFAFA;
 }
