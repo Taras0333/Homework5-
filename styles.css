@@ -34,3 +34,27 @@ html, body{
 	margin: 42px 25px 0px 0px;
 	cursor: pointer;
 }
+.background-img1{
+	position: absolute;
+    left: 691px;
+    top: 116px;
+    z-index: 0;
+    width: 383px;
+	height: 267px;
+}
+.background-img2{
+	position: absolute;
+    left: 841px;
+    top: 116px;
+    z-index: 0;
+    width: 383px;
+	height: 267px;
+}
+.front-img{
+	position: absolute;
+	width: 445px;
+	height: 311px;
+	left: 735px;
+	top: 94px;
+	z-index: 1;
+}
