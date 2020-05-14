@@ -1,11 +1,9 @@
 html, body{
 	font-family: "Lato";
 	font-size: 14px;
-	overflow-x: hidden;
 }
 .app-section{
-	width: 1440px;
-	height: 500px;
+	min-height: 500px;
 	background: #ED4C5C;
 	color: #FFFFFF;
 	position: relative;
@@ -59,8 +57,7 @@ html, body{
 	z-index: 1;
 }
 .contact-section{
-	width: 1440px;
-	height: 500px;
+	min-height: 500px;
 	background: #FFFFFF;
 	position: relative;
 }
@@ -151,8 +148,7 @@ html, body{
 }
 footer{
 	position: relative;
-	width: 1440px;
-	height: 435px;
+	min-height: 435px;
 	background: #FAFAFA;
 }
 .address{
