@@ -148,3 +148,83 @@ html, body{
 	color: #FFFFFF;
 	margin: 34px 0px 0px 0px;
 }
+.footer{
+	position: relative;
+	width: 1440px;
+	height: 435px;
+	background: #FAFAFA;
+}
+.address{
+	position: absolute;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 22px;
+	color: #101010;
+	left: 166px;
+	top: 85px;
+}
+.address-discription{
+	position: absolute;
+	width: 254px;
+	height: 54px;
+	top: 140px;
+	left: 166px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 150%;
+	color: #101010;
+}
+.services{
+	position: absolute;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 22px;
+	color: #101010;
+	left: 450px;
+	top: 85px;
+}
+.services-menu{
+	position: absolute;
+	width: 254px;
+	height: 114px;
+	left: 450px;
+	top: 135px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 160%;
+	text-transform: capitalize;
+	color: #000000; 
+}
+.services-menu p{
+cursor: pointer;
+}
+.get-in-touch{
+	position: absolute;
+	left: 734px;
+	top: 85px;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 22px;
+	color: #101010;
+}
+.get-in-information{
+	position: absolute;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 14px;
+	color: #101010;
+	left: 734px;
+	top: 140px;
+}
+.get-in-information p{
+	cursor: pointer;
+}
+.phone-number{
+	margin: 11px 0px 0px 0px;
+}
