@@ -45,7 +45,7 @@ html, body{
 }
 .background-img1{
 	position: absolute;
-    left: 57px;
+    left: 27px;
     top: 116px;
     z-index: 0;
 	width: 383px;
@@ -53,7 +53,7 @@ html, body{
 }
 .background-img2{
 	position: absolute;
-    left: 206px;
+    left: 176px;
     top: 116px;
     z-index: 0;
 	width: 383px;
@@ -63,7 +63,7 @@ html, body{
 	position: absolute;
 	width: 445px;
 	height: 311px;
-	left: 101px;
+	left: 71px;
 	top: 94px;
 	z-index: 1;
 }
@@ -175,14 +175,13 @@ footer{
 	flex-direction: column;
 	min-height: 435px;
 	background: #FAFAFA;
-	justify-content: center;
+	padding-left: 80px;
 }
 .footer-wrapper{
 	display: flex;
 	flex-direction: row;
-	min-height: 435px;
 	background: #FAFAFA;
-	justify-content: space-evenly;
+	justify-content: space-around;
 	padding-top: 85px;
 	align-items: flex-start;
 }
@@ -267,4 +266,6 @@ footer{
 	font-size: 12px;
 	line-height: 14px;
 	color: #101010;
+	margin-left: 40px;
+    margin-top: 100px;
 }
